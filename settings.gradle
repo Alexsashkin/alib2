@@ -1,0 +1,3 @@
+include ':alib'
+include ':app'
+rootProject.name = "alibprg"
